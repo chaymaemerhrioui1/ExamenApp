@@ -16,10 +16,10 @@ et cela via la table de compte dans la base de donnée :
 
 ![image](https://github.com/user-attachments/assets/29cd3b90-1410-4dbf-8cff-b8e70198aecb)
 
-Aprés on se retrouve dans une page d'acceuil contient le menu de notre application pour ajouter 
-
+Aprés on se retrouve dans une page d'acceuil contient le menu de notre application pour la gestion du personnel/ du groupe/ d'élements pédagoqique et gestion d'examen au final 
 
 ![image](https://github.com/user-attachments/assets/0433a806-f8e4-4adb-8581-fe38e11e05d4)
+
 
 ![image](https://github.com/user-attachments/assets/d52acca2-8016-4abd-81af-bff3910bb71a)
 
